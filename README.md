@@ -6,10 +6,10 @@ Using tesseract for detecting words from image is a very common and very faulty 
 ![rc](https://user-images.githubusercontent.com/41950483/46587284-f79c9600-ca57-11e8-8fce-597a42154d65.jpg)
 ### Mask for Keys
 ![keys](https://user-images.githubusercontent.com/41950483/46587452-9cb86e00-ca5a-11e8-94bd-bfd6a9b74ad4.png)
-keys include: 'Regn. Number’, ‘Vehicle Class’, ‘Address’, ‘Fuel Used’, ‘Regd. Owner’, ‘Type of Body’, ‘Mth. Yr. of Mfg’, ‘Maker‘s Class'
+###### keys include: 'Regn. Number’, ‘Vehicle Class’, ‘Address’, ‘Fuel Used’, ‘Regd. Owner’, ‘Type of Body’, ‘Mth. Yr. of Mfg’, ‘Maker‘s Class'
 ### Mask for Values
 ![values](https://user-images.githubusercontent.com/41950483/46587464-bb1e6980-ca5a-11e8-894a-41c198609ebd.png)
-Mask for the locations of Key Values
+###### Mask for the locations of Key Values
 ### Keys with Bounding Boxes
 ![keys1](https://user-images.githubusercontent.com/41950483/46587384-bf965280-ca59-11e8-86a4-c3cdab5e5d28.png)
 ### Key Values with Bounding Boxes
